@@ -1,4 +1,4 @@
-![Header](https://media.discordapp.net/attachments/1207875419265564703/1233895580724625428/My_name_is_Rinya_but_they_often_call_me_RENDI.png?ex=662ec24f&is=662d70cf&hm=cde342f57e257d65d6d63e3130c47371a4ab7584b8e806e2bf8bc295d945b1ee&=&format=webp&quality=lossless)
+![Header](https://media.discordapp.net/attachments/1207875419265564703/1233899526977228981/My_name_is_Rinya_but_they_often_call_me_RENDI_1.png?ex=662ec5fb&is=662d747b&hm=2505493069f38c69012dda9edfccd7e62aac52bbe33c475925b1fc69c359e833&=&format=webp&quality=lossless)
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
